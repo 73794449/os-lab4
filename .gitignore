@@ -1,0 +1,12 @@
+main.o
+Program.exe
+tree.o
+*.o
+*.exe
+.vscode
+.vscode/*
+.vscode/.clang-format
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
