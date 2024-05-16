@@ -101,7 +101,6 @@ void free_tree(struct BinaryTree *node) {
       free_tree(node->node2);
     node->height = 0;
     free(node);
-    free(node->data);
   }
 }
 
